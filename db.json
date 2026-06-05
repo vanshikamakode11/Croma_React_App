@@ -1,0 +1,45 @@
+{
+  "mobiles": [
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25",
+      "price": 140000,
+      "storage": 256,
+      "color": "Violet",
+      "inStock": true,
+      "imageUrl": "https://m.media-amazon.com/images/I/31Jpsmx0pxL._SY300_SX300_QL70_FMwebp_.jpg",
+      "id": "6096"
+    },
+    {
+      "id": "b0e2",
+      "brand": "Motorola",
+      "model": "M23",
+      "price": 45000,
+      "storage": 256,
+      "color": "NavyBlue",
+      "inStock": true,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1692846359310"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25",
+      "price": 135000,
+      "storage": 256,
+      "color": "Grey",
+      "inStock": true,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1692846359310",
+      "id": "84c2"
+    },
+    {
+      "id": "b18c",
+      "brand": "Apple",
+
+
+      "price": 53000,
+      "storage": 126,
+      "color": "White",
+      "inStock": true,
+      "imageUrl": "https://m.media-amazon.com/images/I/31Q14qzdoZL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+  ]
+}
